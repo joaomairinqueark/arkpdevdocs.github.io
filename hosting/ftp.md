@@ -8,7 +8,7 @@ tags: [guide, git-ftp, ftp, publish, deploy, secrets]
 
 Add a simple GitHub Action to your project to automate the building and deployment of your Retype powered website to any FTP host.
 
-Two Retype GitHub actions will be involved in the process of sync+deploy:
+Two Retype GitHub actions will be inolved in the process of sync+deploy:
 
 1. Retype [Build Action](https://github.com/retypeapp/action-build)
 2. Retype [git-ftp Action](https://github.com/retypeapp/action-git-ftp)
